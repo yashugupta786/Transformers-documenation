@@ -27,3 +27,5 @@ https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8
 https://colab.research.google.com/drive/14rYdqGAXJhwVzslXT4XIwNFBwkmBWdVV#scrollTo=bLFE2bp9f7Vv    Bert NER finetune using Hugging face Trainer
 https://www.youtube.com/watch?v=zjaRNfvNMTs&list=RDCMUCBPRJjIWfyNG4X-CRbnv78A&start_radio=1&t=508s  BPE
 https://colab.research.google.com/github/vasudevgupta7/huggingface-tutorials/blob/main/translation_training.ipynb#scrollTo=IqKgdnkL_O1h   Trainer Hugging face 
+https://github.com/huggingface/transformers/tree/master/examples/seq2seq    finetuning latest 
+https://github.com/huggingface/transformers/tree/master/examples/legacy/seq2seq
