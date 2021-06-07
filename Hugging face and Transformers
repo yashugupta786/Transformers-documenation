@@ -29,3 +29,4 @@ https://www.youtube.com/watch?v=zjaRNfvNMTs&list=RDCMUCBPRJjIWfyNG4X-CRbnv78A&st
 https://colab.research.google.com/github/vasudevgupta7/huggingface-tutorials/blob/main/translation_training.ipynb#scrollTo=IqKgdnkL_O1h   Trainer Hugging face 
 https://github.com/huggingface/transformers/tree/master/examples/seq2seq    finetuning latest 
 https://github.com/huggingface/transformers/tree/master/examples/legacy/seq2seq
+https://towardsdatascience.com/paraphrase-any-question-with-t5-text-to-text-transfer-transformer-pretrained-model-and-cbb9e35f1555     create paraphrase and variations  TODO
